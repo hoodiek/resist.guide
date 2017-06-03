@@ -1,6 +1,11 @@
 # resist.guide
 The resistance guide for modern activists.
 
+# thanks
+Special thanks is extended to the following organizations:
+* [Amnesty International](https://www.amnesty.org/) for their [SafetyDuringProtest](https://www.amnestyusa.org/pdfs/SafeyDuringProtest_F.pdf) pamphlet.  
+* [Portland ISO](https://www.portlandsocialists.org/) for organizing peaceful activism.
+
 
 # license
 Licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
