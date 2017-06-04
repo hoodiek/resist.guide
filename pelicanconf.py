@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'jakimfett'
+AUTHOR = u'resist.guide'
 SITENAME = u'resist.guide'
-SITEURL = ''
-
+SITEURL = 'https://resist.guide'
+#THEME = 'theme/pure-single'
 PATH = 'content'
 
 TIMEZONE = 'America/Los_Angeles'
@@ -20,15 +20,18 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+#LINKS = (
+#    ('', ''),
+#)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+    ('github', 'https://github.com/resist-guide/resist.guide/'),
+)
 
+
+# Site Navigation Settings
+DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = 13
 
 # Uncomment following line if you want document-relative URLs when developing
