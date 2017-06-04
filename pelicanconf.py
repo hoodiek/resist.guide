@@ -2,40 +2,67 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'resist.guide'
-SITENAME = u'resist.guide'
+# Basic site information
+AUTHOR = 'resist.guide'
+SITETITLE = AUTHOR
+SITESUBTITLE = 'A resistance guide for modern activists.'
+SITEDESCRIPTION = 'A resistance guide for modern activists.'
+SITENAME = 'resist.guide'
 SITEURL = 'https://resist.guide'
-#THEME = 'theme/pure-single'
-PATH = 'content'
 
+# UI settings
+THEME = 'theme/flex'
+DEFAULT_LANG = 'en'
+BROWSER_COLOR = '#333333'
+DEFAULT_PAGINATION = 13
+USE_LESS = True
+
+# Time and date
 TIMEZONE = 'America/Los_Angeles'
+DATE_FORMATS = {
+    'en': '%c',
+}
 
-DEFAULT_LANG = u'en'
-
-# Feed generation is usually not desired when developing
+# Disable feeds
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-#LINKS = (
-#    ('', ''),
-#)
-
-# Social widget
-SOCIAL = (
-    ('github', 'https://github.com/resist-guide/resist.guide/'),
-)
-
-# Static path settings for GitHub Sites config
-STATIC_PATHS = ['extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
-
 # Site Navigation Settings
 DISPLAY_PAGES_ON_MENU = True
 DEFAULT_PAGINATION = 13
+SOCIAL = (
+    ('github', 'https://github.com/resist-guide/resist.guide/'),
+    ('twitter', 'https://twitter.com/jakimfett'),
+)
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+
+# Legal
+COPYRIGHT_YEAR = 2017
+CC_LICENSE = {
+    'name': 'Creative Commons Attribution-NonCommercial-ShareAlike International',
+    'version': '4.0',
+    'slug': 'by-nc-sa'
+}
+
+
+# Files
+PATH = 'content'
+SITELOGO = SITEURL + '/logo.svg'
+FAVICON = SITEURL + '/favicon.ico'
+ROBOTS = 'index, follow'
+
+# Static path settings
+STATIC_PATHS = [
+    'extra/logo.svg',
+    'extra/favicon.ico',
+    'extra/CNAME',
+]
+
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/logo.svg': {'path': 'logo.svg'},
+}
