@@ -29,6 +29,9 @@ SOCIAL = (
     ('github', 'https://github.com/resist-guide/resist.guide/'),
 )
 
+# Static path settings for GitHub Sites config
+STATIC_PATHS = ['extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 # Site Navigation Settings
 DISPLAY_PAGES_ON_MENU = True
