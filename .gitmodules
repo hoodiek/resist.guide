@@ -1,3 +1,6 @@
 [submodule "theme/pure-single"]
 	path = theme/pure-single
 	url = git@github.com:PurePelicanTheme/pure-single.git
+[submodule "theme/flex"]
+	path = theme/flex
+	url = git@github.com:alexandrevicenzi/Flex.git
