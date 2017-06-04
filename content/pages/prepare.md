@@ -1,9 +1,9 @@
-Title: Preparations
-Category: Activism
-Tags: checklists
-Slug: prepare
-Authors: jakimfett
-Summary: A pre-event checklist for short duration activism events.
+title: Preparations
+category: Activism
+tags: checklists
+slug: prepare
+authors: jakimfett
+summary: A pre-event checklist for short duration activism events.
 
 * Apply sunscreen
 * Double check to make sure anything weapon-like is removed

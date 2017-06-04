@@ -1,9 +1,9 @@
-Title: Checklist
-Category: Activism
-Tags: checklists
-Slug: checklist
-Authors: jakimfett, sesshirecat
-Summary: A checklist for short duration activism events.
+title: Checklist
+category: Activism
+tags: checklists
+slug: checklist
+authors: jakimfett, sesshirecat
+summary: A checklist for short duration activism events.
 
 * $20-$50 in small bills
 * 3-5 days of any prescription medication
