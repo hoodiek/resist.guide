@@ -3,6 +3,8 @@ The resistance guide for modern activists.
 
 # todo
 * Figure out why HTTPS breaks when setting CloudFlare to "Strict" mode.
+* Add documentation for setting up a development environment.
+* Add a code of conduct.
 
 # thanks
 Special thanks is extended to the following organizations and individuals:
