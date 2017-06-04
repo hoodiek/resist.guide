@@ -14,7 +14,7 @@ Special thanks is extended to the following organizations and individuals:
 * [Alexandre Vicenzi](http://www.alexandrevicenzi.com) for the [Flex theme for Pelican](https://github.com/alexandrevicenzi/Flex).
 * [GitHub](https://github.com/) for making this project possible.
 * Last but not least, the open source community for providing the tools to freely make this project.
-* [Wikipedia] for the [solidarity fist logo](https://commons.wikimedia.org/wiki/File:Fist.svg).
+* [Wikipedia](https://www.wikipedia.org/) for the [solidarity fist logo](https://commons.wikimedia.org/wiki/File:Fist.svg).
 
 # license
 Licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
