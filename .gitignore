@@ -1,4 +1,12 @@
-# Jekyll defaults
-_site/
-.sass-cache/
-.jekyll-metadata
+# Pelican
+output/
+
+# Python
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
