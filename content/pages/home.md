@@ -1,4 +1,6 @@
-Title: A resistance guide for modern activists.
+Title: Home
+Authors: jakimfett
+Summary: A resistance guide for modern activists.
 save_as: index.html
 
 # resist.guide
