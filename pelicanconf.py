@@ -19,7 +19,7 @@ USE_LESS = True
 
 # OpenGraph
 OG_LOCALE = 'en_US'
-COVER = SITEURL + '/logo_og.png'
+OG_IMAGE = SITEURL + '/logo_og.png'
 
 # Time and date
 TIMEZONE = 'America/Los_Angeles'

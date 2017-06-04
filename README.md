@@ -3,6 +3,7 @@ The resistance guide for modern activists.
 
 # todo
 * Add a code of conduct.
+* Add documentation for contributing and creating issues.
 * Add documentation for setting up a development environment.
 * Figure out why HTTPS breaks when setting CloudFlare to "Strict" mode.
 
