@@ -17,6 +17,10 @@ BROWSER_COLOR = '#333333'
 DEFAULT_PAGINATION = 13
 USE_LESS = True
 
+# OpenGraph
+OG_LOCALE = 'en_US'
+COVER = SITEURL + '/logo_og.png'
+
 # Time and date
 TIMEZONE = 'America/Los_Angeles'
 DATE_FORMATS = {
@@ -37,7 +41,9 @@ SOCIAL = (
     ('github', 'https://github.com/resist-guide/resist.guide/'),
     ('twitter', 'https://twitter.com/jakimfett'),
 )
-
+LINKS = (
+    ('Contribute', 'https://github.com/resist-guide/resist.guide'),
+)
 
 # Legal
 COPYRIGHT_YEAR = 2017
@@ -57,6 +63,7 @@ ROBOTS = 'index, follow'
 # Static path settings
 STATIC_PATHS = [
     'extra/logo.svg',
+    'extra/logo_og.png',
     'extra/favicon.ico',
     'extra/CNAME',
 ]
@@ -65,4 +72,5 @@ EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
     'extra/logo.svg': {'path': 'logo.svg'},
+    'extra/logo_og.png': {'path': 'logo_og.png'},
 }
