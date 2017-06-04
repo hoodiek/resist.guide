@@ -9,6 +9,7 @@ Special thanks is extended to the following organizations and individuals:
 * [Amnesty International](https://www.amnesty.org/) for their [SafetyDuringProtest](https://www.amnestyusa.org/pdfs/SafeyDuringProtest_F.pdf) pamphlet.  
 * [Portland ISO](https://www.portlandsocialists.org/) for organizing peaceful activism.
 * Jonathan McGlone (@jmcglone) for this [marvelous guide on using Jekyll with GitHub Pages](http://jmcglone.com/guides/github-pages/).
+* The many members of the [Jekyll](https://github.com/jekyll/jekyll) and [pages-themes](https://github.com/pages-themes) projects.
 
 # license
 Licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
