@@ -1,4 +1,4 @@
-title: Preparations
+title: Prepare
 category: Activism
 tags: checklists
 slug: prepare
