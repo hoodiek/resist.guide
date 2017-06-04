@@ -28,6 +28,7 @@ Summary: A checklist for short duration activism events.
 * Law enforcement interaction script
 * Lightweight jacket
 * Paper towels
+* Passport/document holder (for identification/cash)
 * Pen(s)
 * Secure cell phone
 * Sewing kit
