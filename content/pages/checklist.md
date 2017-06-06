@@ -35,6 +35,5 @@ summary: A checklist for short duration activism events.
 * Sharpies
 * Sun hat (if the forecast is for sun)
 * Sunscreen (if the forecast is for sun)
-* Vinegar (for soaking bandanna to )
 * Water bottle 
 * Wet wipes
